@@ -1,7 +1,7 @@
 export const siteConfig = {
   company: {
     name: "Baie de Somme Espaces Verts",
-    tagline: "Votre paysagiste de confiance dans la Baie de Somme",
+    tagline: "Votre paysagiste dans la Baie de Somme",
     description: "Baie de Somme Espaces Verts vous accompagne dans tous vos projets d'aménagement paysager. Création de jardins, entretien d'espaces verts, taille et élagage dans la région de Famechon et alentours."
   },
   contact: {
