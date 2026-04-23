@@ -110,7 +110,7 @@ export function Hero() {
             <Stat label="Jardins" value={siteConfig.stats.projectsCount} />
             <Stat
               label="Expérience"
-              value={`${siteConfig.stats.yearsExperience} ans`}
+              value={siteConfig.stats.yearsExperience}
             />
             <Stat label="Sur mesure" value="100%" />
           </motion.div>
